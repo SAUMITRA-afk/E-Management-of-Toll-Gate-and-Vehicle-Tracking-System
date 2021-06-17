@@ -1,0 +1,56 @@
+input[type=text] {
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+   
+    
+    
+}
+
+input[type=password] {
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+   
+    
+}
+
+
+input[type=submit] {
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white;
+}
+
+td
+{
+	color:darkblue;
+	font-size: 15px;
+}
+a
+{
+	font-size: 16px;
+}
+div
+{
+    font-size: 15px;
+    color: darkblue;
+}
+  
+   button[type=submit]{
+    width: 91px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  color:white;
+background-color:#0ec0ae;
+}

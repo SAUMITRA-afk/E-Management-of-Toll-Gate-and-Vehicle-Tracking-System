@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_branch_details" value="name:sno;datatype:int,name:bid;datatype:blob,name:bname;datatype:blob,name:location;datatype:blob,name:address;datatype:blob,name:postal;datatype:blob,name:country;datatype:blob,name:mobile;datatype:blob,name:phone;datatype:blob,name:mailid;datatype:blob,name:faxno;datatype:blob,name:no_of_staff;datatype:blob,name:image;datatype:blob,name:start_date;datatype:blob" />
+</info>

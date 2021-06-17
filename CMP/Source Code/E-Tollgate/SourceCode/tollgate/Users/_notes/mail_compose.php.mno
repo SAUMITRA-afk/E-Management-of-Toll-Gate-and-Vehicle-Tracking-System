@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:sno;datatype:int,name:staffid;datatype:blob,name:name;datatype:blob,name:dob;datatype:blob,name:gender;datatype:blob,name:age;datatype:blob,name:address;datatype:blob,name:phone;datatype:blob,name:mobile;datatype:blob,name:mailid;datatype:blob,name:doj;datatype:blob,name:salary;datatype:blob,name:country;datatype:blob,name:location;datatype:blob,name:passwrd;datatype:blob,name:grpid;datatype:blob,name:designation;datatype:blob,name:branchid;datatype:blob,name:image;datatype:blob,name:sts;datatype:int" />
+	<infoitem key="UD_message" value="name:sno;datatype:int,name:from;datatype:blob,name:to;datatype:blob,name:subj;datatype:blob,name:msg;datatype:blob,name:date;datatype:blob,name:time;datatype:blob,name:sts;datatype:int" />
+</info>

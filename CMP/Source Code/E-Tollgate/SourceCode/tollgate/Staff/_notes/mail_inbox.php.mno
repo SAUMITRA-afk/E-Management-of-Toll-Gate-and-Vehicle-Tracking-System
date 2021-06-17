@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_message" value="name:sno;datatype:int,name:from;datatype:blob,name:to;datatype:blob,name:subj;datatype:blob,name:msg;datatype:blob,name:date;datatype:blob,name:time;datatype:blob,name:sts;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:sno;datatype:int,name:from;datatype:blob,name:to;datatype:blob,name:subj;datatype:blob,name:msg;datatype:blob,name:date;datatype:blob,name:time;datatype:blob,name:sts;datatype:int" />
+	<infoitem key="UD_use" value="name:sno;datatype:int,name:bid;datatype:blob,name:stfid;datatype:blob,name:date;datatype:blob,name:time;datatype:blob,name:cid;datatype:blob,name:cname;datatype:blob,name:image;datatype:blob,name:passwd;datatype:blob,name:mailid;datatype:blob,name:grp;datatype:blob,name:licno;datatype:blob,name:vecno;datatype:blob,name:vectype;datatype:blob,name:permittype;datatype:blob,name:permitno;datatype:blob,name:from;datatype:blob,name:to;datatype:blob,name:amount;datatype:blob,name:bankname;datatype:blob,name:pid;datatype:blob,name:accno;datatype:blob,name:creditno;datatype:blob,name:validitydate;datatype:blob,name:sts;datatype:int" />
+</info>

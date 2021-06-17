@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_view_company" value="name:sno;datatype:int,name:cid;datatype:blob,name:cname;datatype:blob,name:location;datatype:blob,name:address;datatype:blob,name:postal;datatype:blob,name:URL;datatype:blob,name:country;datatype:blob,name:mobile;datatype:blob,name:phone;datatype:blob,name:mailid;datatype:blob,name:faxno;datatype:blob,name:image;datatype:blob,name:start_date;datatype:blob" />
+	<infoitem key="UD_view_company1" value="name:sno;datatype:int,name:cid;datatype:blob,name:cname;datatype:blob,name:location;datatype:blob,name:address;datatype:blob,name:postal;datatype:blob,name:URL;datatype:blob,name:country;datatype:blob,name:mobile;datatype:blob,name:phone;datatype:blob,name:mailid;datatype:blob,name:faxno;datatype:blob,name:image;datatype:blob,name:start_date;datatype:blob" />
+</info>

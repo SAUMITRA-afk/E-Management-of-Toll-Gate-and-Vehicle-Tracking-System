@@ -1,0 +1,117 @@
+/*
+ * Dandelion Admin v1.0 - Demo Stylesheet
+ *
+ * This file is part of Dandelion Admin, an Admin template build for sale at ThemeForest.
+ * For questions, suggestions or support request, please mail me at maimairel@yahoo.com
+ *
+ * Development Started:
+ * March 25, 2012
+ *
+ * ===============================================
+ * Table of Contents
+ * ===============================================
+ *
+ * 1. Vertical Sliders
+ * 2. Icon List
+ *
+ */
+ 
+/* (1) Vertical Sliders
+================================================== */
+
+#da-slider-equalizer span
+{
+	height:120px; float:left; margin:0 16px;
+}
+
+/* (2) Icon List
+================================================== */
+
+ul.da-icon-list li
+{
+	margin:0;
+	list-style:none;
+}
+
+ul.da-icon-list li
+{
+	display:block;
+	float:left;
+	margin:4px;
+}
+
+ul.da-icon-list.black li span
+{
+	background-color:#444444;
+	border-color:#000000;
+}
+
+ul.da-icon-list li span
+{
+	padding:10px;
+	display:block;
+	background-color:#fefefe;
+	border:1px solid #f0f0f0;
+	
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	-o-border-radius:4px;
+	border-radius:4px;
+}
+
+
+/************** Satff detils **************/
+.staff_detils_edit{
+	font-family:Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	text-decoration:none;
+	float:right;
+	margin-right:20px;
+	margin-top:14px;
+	text-shadow: 1px 1px 0px #fff;
+
+}
+.staff_detils_edit a{
+	color:#333;
+	text-decoration:none;
+}
+
+.staff_detils_edit a:hover{
+	color:#333;
+	text-decoration:underline;
+}
+
+.staff_detils_infom_text_left{
+	font-family:Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#08488a;
+	text-decoration:none;
+	text-transform:uppercase;
+	padding-bottom:12px;
+}
+.staff_detils_infom_text_right{
+	font-family:Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	text-decoration:none;
+	padding-bottom:12px;
+	line-height:16px;
+}
+
+h6{
+	
+	font-family:Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	background:#eee;
+	color:#333;
+	text-decoration:none;
+	padding-top:10px;
+	padding-left:10px;
+	height:25px;
+	line-height:16px;}
+	

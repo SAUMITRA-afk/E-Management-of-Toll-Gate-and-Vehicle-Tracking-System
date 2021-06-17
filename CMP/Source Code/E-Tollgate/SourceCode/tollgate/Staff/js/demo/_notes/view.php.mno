@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_add_policy" value="name:sno;datatype:int,name:policyid;datatype:blob,name:bid;datatype:blob,name:policyname;datatype:blob,name:policytype;datatype:blob,name:policyperiod;datatype:blob,name:policybenifits;datatype:blob,name:policyamount;datatype:blob,name:sts;datatype:int" />
+</info>
