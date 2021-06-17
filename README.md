@@ -1,6 +1,6 @@
 # E-Management-of-Toll-Gate-and-Vehicle-Tracking-System
 
-• The project we proposed “Toll Gate” is a web based application that have complete 
+• In this project I proposed “Toll Gate” which is a web based application that have complete 
 details of a Toll Gate Company details like Toll gate details, staff details, user details 
 and Fare details of each toll booth and collection details of each toll booth.
 • The above aim can be established by implementing a layout structure modules and 
